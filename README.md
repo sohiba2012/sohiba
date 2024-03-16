@@ -1,2 +1,2 @@
-# sohiba
+# 16 dars
 saytning tepasi
